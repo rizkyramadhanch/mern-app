@@ -27,6 +27,14 @@ If you change `Dockerfile` rebuild container with `docker-compose build server`.
 Access React app on `http://localhost:3000` and test the server on `https://localhost:5000/api/message`. Generate your own ssl keys and put them in `/security` folder if you like. Connection to the mongodb is in the `/config/dev.js`. Access adminmongo on `http://localhost:1234`.
 
 ## Preview
+### Todos List View
+![Todos List View](./screenshots/ViewToDo.PNG?raw=true "Todos List View")
+
+### Create Todo
+![Create Todo](./screenshots/createTodo.PNG?raw=true "Create Todo")
+
+### Express Message
+![Express Message](./screenshots/ExpressMessagePNG?raw=true "Edit Todo")
 
 ## Credits
 
