@@ -8,8 +8,9 @@
 * `adminmongo` with AdminMongo on `http://localhost:1234` route
 
 Docker images available
-* `client` >> [sekolahdevopscilsy/client] (https://hub.docker.com/repository/docker/sekolahdevopscilsy/client)
-* `client` >> [sekolahdevopscilsy/server] (https://hub.docker.com/repository/docker/sekolahdevopscilsy/server)
+* `client` >> [sekolahdevopscilsy/mern-docker_client](https://hub.docker.com/repository/docker/sekolahdevopscilsy/client)
+* `server` >> [sekolahdevopscilsy/mern-docker_server](https://hub.docker.com/repository/docker/sekolahdevopscilsy/server)
+* `mongo` >> [sekolahdevopscilsy/mongo](https://hub.docker.com/repository/docker/sekolahdevopscilsy/mongo)
 
 ## Usage
 
@@ -24,6 +25,8 @@ Shut down containers with `docker-compose down`.
 If you change `Dockerfile` rebuild container with `docker-compose build server`. Container names are `client`, `server`, `mongo` and `adminmongo`.
 
 Access React app on `http://localhost:3000` and test the server on `https://localhost:5000/api/message`. Generate your own ssl keys and put them in `/security` folder if you like. Connection to the mongodb is in the `/config/dev.js`. Access adminmongo on `http://localhost:1234`.
+
+## Preview
 
 ## Credits
 
