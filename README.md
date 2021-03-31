@@ -28,13 +28,13 @@ Access React app on `http://localhost:3000` and test the server on `https://loca
 
 ## Preview
 ### Todos List View
-![Todos List View](./screenshots/ViewToDo.PNG?raw=true "Todos List View")
+![Todos List View](./screenshots/ViewToDo.png?raw=true "Todos List View")
 
 ### Create Todo
-![Create Todo](./screenshots/createTodo.PNG?raw=true "Create Todo")
+![Create Todo](./screenshots/createTodo.png?raw=true "Create Todo")
 
 ### Express Message
-![Express Message](./screenshots/ExpressMessagePNG?raw=true "Edit Todo")
+![Express Message](./screenshots/ExpressMessage.png?raw=true "Edit Todo")
 
 ## Credits
 
