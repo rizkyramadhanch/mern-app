@@ -1,4 +1,4 @@
-# Mern Docker
+# Mern Todo-Apps with Docker
 
 ## Containers
 
@@ -9,7 +9,7 @@
 
 ## Usage
 
-`docker-compose up -d` or for every container separately `docker-compose up -d client server adminmongo`
+You can use `docker-compose up -d` command to deploy the container, or for every container separately, you can use `docker-compose up -d [container_name] client server adminmongo`
 
 Get in to container and install more dependecies with `docker exec -it server /bin/sh` or `docker exec -it client /bin/sh` and then `npm install whatewer`.
 
