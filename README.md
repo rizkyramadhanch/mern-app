@@ -7,6 +7,10 @@
 * `mongo` with MongoDB
 * `adminmongo` with AdminMongo on `http://localhost:1234` route
 
+Docker images available
+* `client` >> [sekolahdevopscilsy/client] (https://hub.docker.com/repository/docker/sekolahdevopscilsy/client)
+* `client` >> [sekolahdevopscilsy/server] (https://hub.docker.com/repository/docker/sekolahdevopscilsy/server)
+
 ## Usage
 
 You can use `docker-compose up -d` command to deploy the container, or for every container separately, you can use `docker-compose up -d [container_name] client server adminmongo`
