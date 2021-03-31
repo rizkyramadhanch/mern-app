@@ -31,7 +31,7 @@ Access React app on `http://localhost:3000` and test the server on `https://loca
 ![Todos List View](./screenshots/ViewToDo.png?raw=true "Todos List View")
 
 ### Create Todo
-![Create Todo](./screenshots/createTodo.png?raw=true "Create Todo")
+![Create Todo](./screenshots/CreateTodo.png?raw=true "Create Todo")
 
 ### Express Message
 ![Express Message](./screenshots/ExpressMessage.png?raw=true "Edit Todo")
